@@ -1,0 +1,10 @@
+C:\Users\VI952594\PycharmProjects\PythonForAIMLWipro\venv\Scripts\python.exe C:/Users/VI952594/PycharmProjects/PythonForAIMLWipro/Set_4/q8.py
+enter string: and
+and --> ['first', 'a', 'large', 'automatic', 'supports', 'procedural', 'comprehensive', 'has']
+
+
+C:\Users\VI952594\PycharmProjects\PythonForAIMLWipro\venv\Scripts\python.exe C:/Users/VI952594/PycharmProjects/PythonForAIMLWipro/Set_4/q8.py
+enter string: Python
+Python --> ['is', 'has', 'features', 'interpreters', 'code', 'Software']
+
+
